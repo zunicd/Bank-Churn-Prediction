@@ -46,7 +46,7 @@
                             <option value="France">France</option>
                             <option value="Germany">Germany</option>
                             <option value="Spain">Spain</option>
-                        </select>
+                        </select><br>
                         <label for="gender">Gender:</label><br>
                         <select name="gender" required="required" id="gender">
                             <option disabled selected value> -- select -- </option>
@@ -131,6 +131,21 @@
                                 {% endfor %}
                             </tbody>
                         </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-3"></div>
+                <div class="col-sm-6"><b>Customer Data Input Record</b></div>
+            </div>
+        </div><br>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-3"></div>
+                <div class="col-sm-6">
+                    <div class="table-responsive">
                         <table class="table" border="2">
                             <tbody>
                                 {% for k, v in maind['customer'].items() %}
