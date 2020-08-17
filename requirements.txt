@@ -26,7 +26,6 @@ Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 Markdown==3.2.2
 MarkupSafe==1.1.1
-mkl-random==1.1.1
 mkl-service==2.3.0
 numpy==1.19.1
 oauthlib==3.1.0
