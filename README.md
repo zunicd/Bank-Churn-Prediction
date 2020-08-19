@@ -2,10 +2,6 @@ The app is deployed to Heroku, and can be found at this [URL](https://bank-churn
 
 Our full presentation deck <a href="https://docs.google.com/presentation/d/1WagUw9FioyvucB3K1wNejKWFXm2HEMOg_vijvoHZ_Jc/edit?usp=sharing">can be found here</a>.
 
-# Churn Modelling - How to p): https://bank-churn-predictions.herokuapp.com/
-
-Our full presentation deck <a href="https://docs.google.com/presentation/d/1WagUw9FioyvucB3K1wNejKWFXm2HEMOg_vijvoHZ_Jc/edit?usp=sharing">can be found here</a>.
-
 # Churn Modelling - How to predict if a bank’s customer will stay or leave the bank
 
 Using a source of 10,000 bank records,  we created an app to demonstrate the ability to apply machine learning models to predict the likelihood of customer churn. We accomplished this using the following steps:
