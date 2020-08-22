@@ -1,6 +1,6 @@
 The app is deployed to Heroku, and can be found at this [URL](https://bank-churn-predictions.herokuapp.com/)
 
-Our full presentation deck <a href="https://docs.google.com/presentation/d/1WagUw9FioyvucB3K1wNejKWFXm2HEMOg_vijvoHZ_Jc/edit?usp=sharing">can be found here</a>.
+Our full presentation deck [can be found here](https://docs.google.com/presentation/d/1AiL9Zo9WBySLQkjjMcIHuZp4wEC9UnLtXjSaclaICBE/edit?usp=sharing).
 
 # Churn Modelling - How to predict if a bank’s customer will stay or leave the bank
 
@@ -28,7 +28,7 @@ As mentioned earlier, we also used SMOTE to handle issues with the imbalanced da
 
 Finally, using Flask and HTML/CSS, we created the user-facing app to add information to our data set matching our initial dataframe to predict the likelihood of a customer departing the bank. This was then deployed to Heroku, and can be found at this URL: https://bank-churn-predictions.herokuapp.com/
 
-## Resources
+## References
 
 - [Kaggle - Churn Modelling Calssification Data Set](https://www.kaggle.com/shrutimechlearn/churn-modelling)
 - https://github.com/zunicd/T2D-Predictions
@@ -41,5 +41,5 @@ Finally, using Flask and HTML/CSS, we created the user-facing app to add informa
 
 
 
-For a deeper dive into our analysis and process, take a look <a href="https://docs.google.com/presentation/d/1WagUw9FioyvucB3K1wNejKWFXm2HEMOg_vijvoHZ_Jc/edit?usp=sharing">at our full presentation</a>.
+For a deeper dive into our analysis and process, take a look at [our full presentatio](https://docs.google.com/presentation/d/1AiL9Zo9WBySLQkjjMcIHuZp4wEC9UnLtXjSaclaICBE/edit?usp=sharing)n.
 
