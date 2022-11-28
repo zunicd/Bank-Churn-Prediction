@@ -54,5 +54,5 @@ Werkzeug==2.2.2
 win-inet-pton==1.1.0
 #wincertstore==0.2
 wrapt==1.14.1
-xgboost==1.3.0
+xgboost==1.3.0rc1
 zipp==3.10.0
