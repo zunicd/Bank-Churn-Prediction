@@ -1,4 +1,4 @@
-The app is deployed to Heroku, and can be found at this [URL](https://bank-churn-predictions.herokuapp.com/)
+The app is deployed to Render, and can be found at this [URL](https://bank-churn-predictions.onrender.com)
 
 Our full presentation deck [can be found here](https://docs.google.com/presentation/d/1AiL9Zo9WBySLQkjjMcIHuZp4wEC9UnLtXjSaclaICBE/edit?usp=sharing).
 
@@ -26,7 +26,7 @@ As mentioned earlier, we also used SMOTE to handle issues with the imbalanced da
 
 ## 4. Load models to display predictions on app
 
-Finally, using Flask and HTML/CSS, we created the user-facing app to add information to our data set matching our initial dataframe to predict the likelihood of a customer departing the bank. This was then deployed to Heroku, and can be found at this URL: https://bank-churn-predictions.herokuapp.com/
+Finally, using Flask and HTML/CSS, we created the user-facing app to add information to our data set matching our initial dataframe to predict the likelihood of a customer departing the bank. This was then deployed to Heroku. In November 2022 it was moved to Render and it can be found at this URL: [https://bank-churn-predictions.onrender.com](https://bank-churn-predictions.onrender.com)
 
 ## References
 
@@ -37,6 +37,7 @@ Finally, using Flask and HTML/CSS, we created the user-facing app to add informa
 - [Edit seaborn legend](https://stackoverflow.com/questions/45201514/edit-seaborn-legend)
 - [How to Easily Deploy Machine Learning Models Using Flask](https://towardsdatascience.com/how-to-easily-deploy-machine-learning-models-using-flask-b95af8fe34d4)
 - [Keras Hyperparameter Tuning using Sklearn Pipelines & Grid Search](https://medium.com/@am.benatmane/keras-hyperparameter-tuning-using-sklearn-pipelines-grid-search-with-cross-validation-ccfc74b0ce9f)
+- [SciKeras Documentation](https://www.adriangb.com/scikeras/stable/index.html)
 - [Scikit-Learn Tutorial: Machine Learning in Python Examples](https://www.guru99.com/scikit-learn-tutorial.html)
 
 
